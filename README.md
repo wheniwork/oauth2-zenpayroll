@@ -1,6 +1,8 @@
 # Zenpayroll Provider for OAuth 2.0 Client
 
 [![Build Status](https://img.shields.io/travis/wheniwork/oauth2-zenpayroll.svg)](https://travis-ci.org/wheniwork/oauth2-zenpayroll)
+[![Code Coverage](https://img.shields.io/coveralls/wheniwork/oauth2-zenpayroll.svg)](https://coveralls.io/r/wheniwork/oauth2-zenpayroll)
+[![Code Quality](https://img.shields.io/scrutinizer/g/wheniwork/oauth2-zenpayroll.svg)](https://scrutinizer-ci.com/g/wheniwork/oauth2-zenpayroll/)
 [![License](https://img.shields.io/packagist/l/wheniwork/oauth2-zenpayroll.svg)](https://github.com/wheniwork/oauth2-zenpayroll/blob/master/LICENSE)
 [![Latest Stable Version](https://img.shields.io/packagist/v/wheniwork/oauth2-zenpayroll.svg)](https://packagist.org/packages/wheniwork/oauth2-zenpayroll)
 
