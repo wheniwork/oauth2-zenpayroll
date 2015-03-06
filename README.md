@@ -1,4 +1,4 @@
-# Zenpayroll Provider for OAuth 2.0 Client
+# ZenPayroll Provider for OAuth 2.0 Client
 
 [![Build Status](https://img.shields.io/travis/wheniwork/oauth2-zenpayroll.svg)](https://travis-ci.org/wheniwork/oauth2-zenpayroll)
 [![Code Coverage](https://img.shields.io/coveralls/wheniwork/oauth2-zenpayroll.svg)](https://coveralls.io/r/wheniwork/oauth2-zenpayroll)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/packagist/l/wheniwork/oauth2-zenpayroll.svg)](https://github.com/wheniwork/oauth2-zenpayroll/blob/master/LICENSE)
 [![Latest Stable Version](https://img.shields.io/packagist/v/wheniwork/oauth2-zenpayroll.svg)](https://packagist.org/packages/wheniwork/oauth2-zenpayroll)
 
-This package provides Zenpayroll OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
+This package provides ZenPayroll OAuth 2.0 support for the PHP League's [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client).
 
 ## Installation
 
